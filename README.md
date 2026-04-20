@@ -3,7 +3,7 @@
 **Effective date:** April 21, 2026
 **App:** PDF Tools (`com.devcodeapps.pdftools`)
 **Developer:** DevCodeApps
-**Contact:** farr3ll@rocketmail.com
+**Contact:** under.cntrl.dev@gmail.com
 
 ## Summary
 
@@ -43,4 +43,4 @@ If this policy is updated, the new version will be posted at the same URL with a
 
 ## Contact
 
-Questions? Email farr3ll@rocketmail.com.
+Questions? Email under.cntrl.dev@gmail.com.
